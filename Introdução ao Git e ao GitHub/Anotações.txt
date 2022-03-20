@@ -1,0 +1,9 @@
+Professor: 
+	Venilton FalvoJr  | Tech Lead, Digital Innovation One
+
+Link para download do Git: 
+	https://git-scm.com/downloads
+
+Descrição do Git Bash:
+	É um teriminal extendido para otimizar o uso do Git.
+	
